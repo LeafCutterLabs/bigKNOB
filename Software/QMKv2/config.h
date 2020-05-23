@@ -57,6 +57,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define ENCODER_RESOLUTION 2 //default/suggested
 
 /* ws2812 RGB LED */
-#define RGB_DI_PIN C7 //D3
+#define RGB_DI_PIN C7 //D3 is the external underglow line
 #define RGBLIGHT_ANIMATIONS
 #define RGBLED_NUM 4    // Number of LEDs
